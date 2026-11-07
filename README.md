@@ -54,11 +54,7 @@ The database contains the following main tables:
 - Suppliers
 - Shippers
 - Employees
-
-### ERD
-
-![Database ERD](SalesAnalysis_ERD.png)
-
+- 
 ---
 
 ## Business Questions
@@ -159,22 +155,6 @@ Sales-Performance-Analysis-SQL/
 ├── Yearly_Sales.png.jpg
 └── Top_Product_Per_Category.png.jpg
 ```
-
----
-
-## Results
-
-### Top 5 Customers
-
-![Top 5 Customers](Top_5_Customers.png.jpg)
-
-### Yearly Sales
-
-![Yearly Sales](Yearly_Sales.png.jpg)
-
-### Top Product per Category
-
-![Top Product per Category](Top_Product_Per_Category.png.jpg)
 
 ---
 
