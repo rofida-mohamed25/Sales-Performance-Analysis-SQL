@@ -144,23 +144,6 @@ No duplicate orders or unmatched customer relationships were detected.
 
 ---
 
-## Project Structure
-
-```text
-Sales-Performance-Analysis-SQL/
-│
-├── README.md
-│
-├── Top_5_Customers.jpg
-├── Yearly_Sales.jpg
-├── Top_Product_Per_Category.jpg
-│
-└── SQL/
-    ├── Sales_Analysis.sql
-    └── database ERD.jpg
-
-
----
 
 ## Results
 
