@@ -54,7 +54,11 @@ The database contains the following main tables:
 - Suppliers
 - Shippers
 - Employees
-- 
+
+### ERD
+
+![Database ERD](SQL/database%20ERD.jpg)
+
 ---
 
 ## Business Questions
@@ -146,20 +150,11 @@ No duplicate orders or unmatched customer relationships were detected.
 Sales-Performance-Analysis-SQL/
 │
 ├── README.md
-├── SalesAnalysis_ERD.png
 │
-├── SQL/
-│   └── Sales_Analysis.sql
+├── Top_5_Customers.jpg
+├── Yearly_Sales.jpg
+├── Top_Product_Per_Category.jpg
 │
-├── Top_5_Customers.png.jpg
-├── Yearly_Sales.png.jpg
-└── Top_Product_Per_Category.png.jpg
-```
-
----
-
-## Conclusion
-
-This project demonstrates the use of SQL Server to perform a complete sales analysis workflow, including data exploration, business analysis, advanced SQL techniques, and data quality validation.
-
-The project was designed to simulate practical tasks that a **Junior Data Analyst** may perform when working with relational business data.
+└── SQL/
+    ├── Sales_Analysis.sql
+    └── database ERD.jpg
