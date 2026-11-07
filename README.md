@@ -158,3 +158,28 @@ Sales-Performance-Analysis-SQL/
 └── SQL/
     ├── Sales_Analysis.sql
     └── database ERD.jpg
+
+
+---
+
+## Results
+
+### Top 5 Customers
+
+![Top 5 Customers](Top_5_Customers.jpg)
+
+### Yearly Sales
+
+![Yearly Sales](Yearly_Sales.jpg)
+
+### Top Product per Category
+
+![Top Product per Category](Top_Product_Per_Category.jpg)
+
+---
+
+## Conclusion
+
+This project demonstrates the use of SQL Server to perform a complete sales analysis workflow, including data exploration, business analysis, advanced SQL techniques, and data quality validation.
+
+The project was designed to simulate practical tasks that a **Junior Data Analyst** may perform when working with relational business data.
